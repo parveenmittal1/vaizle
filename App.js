@@ -26,4 +26,4 @@ function solution(D){
     //
 
     return D;
-}();
+};
